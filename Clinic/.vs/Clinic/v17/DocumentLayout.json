@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\fileextension\\fileextenson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\fileextension\\fileextenson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\migrations\\20250113134554_creatingdepartmentanddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\migrations\\20250113134554_creatingdepartmentanddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\dataaccesslayer\\clinincdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\dataaccesslayer\\clinincdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113133426_CreatingDepartmentanddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic\\Migrations\\20250113133426_CreatingDepartmentanddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113132932_CreatingDepartmentanddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic\\Migrations\\20250113132932_CreatingDepartmentanddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\validations\\department\\departmentcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\validations\\department\\departmentcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113132010_CreatingDepartmentanddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic\\Migrations\\20250113132010_CreatingDepartmentanddoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113131404_Publicing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic\\Migrations\\20250113131404_Publicing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\viewmodels\\card\\cardcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\viewmodels\\card\\cardcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\viewmodels\\department\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\viewmodels\\department\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113130554_CreatedDepartmentAndCardTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinic\\Migrations\\20250113130554_CreatedDepartmentAndCardTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\viewmodels\\card\\cardupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\viewmodels\\card\\cardupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\validations\\card\\cardupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\validations\\card\\cardupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\validations\\card\\cartcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\validations\\card\\cartcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|c:\\users\\ii novbe\\desktop\\klinik\\clinic\\clinic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A07AA39A-68EF-4621-8D1F-AC0C18C23950}|Clinic\\Clinic.csproj|solutionrelative:clinic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileExtenson.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\FileExtension\\FileExtenson.cs",
+              "RelativeDocumentMoniker": "Clinic\\FileExtension\\FileExtenson.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\FileExtension\\FileExtenson.cs",
+              "RelativeToolTip": "Clinic\\FileExtension\\FileExtenson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:43:12.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "Clinic\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "Clinic\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:09:48.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clinic\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Clinic\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:07:56.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Clinic\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:06:30.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clinic\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "Clinic\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T14:04:45.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "Clinic\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:04:34.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Areas\\Admin\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Clinic\\Areas\\Admin\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:53:02.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Clinic\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:52:45.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Clinic\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Models\\Department.cs",
+              "RelativeToolTip": "Clinic\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:43:44.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Models\\Doctors.cs",
+              "RelativeDocumentMoniker": "Clinic\\Models\\Doctors.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Models\\Doctors.cs",
+              "RelativeToolTip": "Clinic\\Models\\Doctors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:39:23.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Program.cs",
+              "RelativeDocumentMoniker": "Clinic\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Program.cs",
+              "RelativeToolTip": "Clinic\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:03:45.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250113134554_CreatingDepartmentanddoctor.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113134554_CreatingDepartmentanddoctor.cs",
+              "RelativeDocumentMoniker": "Clinic\\Migrations\\20250113134554_CreatingDepartmentanddoctor.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113134554_CreatingDepartmentanddoctor.cs",
+              "RelativeToolTip": "Clinic\\Migrations\\20250113134554_CreatingDepartmentanddoctor.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:45:54.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250113133426_CreatingDepartmentanddoctor.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113133426_CreatingDepartmentanddoctor.cs",
+              "RelativeDocumentMoniker": "Clinic\\Migrations\\20250113133426_CreatingDepartmentanddoctor.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113133426_CreatingDepartmentanddoctor.cs",
+              "RelativeToolTip": "Clinic\\Migrations\\20250113133426_CreatingDepartmentanddoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:34:26.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250113132932_CreatingDepartmentanddoctor.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113132932_CreatingDepartmentanddoctor.cs",
+              "RelativeDocumentMoniker": "Clinic\\Migrations\\20250113132932_CreatingDepartmentanddoctor.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113132932_CreatingDepartmentanddoctor.cs",
+              "RelativeToolTip": "Clinic\\Migrations\\20250113132932_CreatingDepartmentanddoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:29:32.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\appsettings.json",
+              "RelativeDocumentMoniker": "Clinic\\appsettings.json",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\appsettings.json",
+              "RelativeToolTip": "Clinic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T11:30:28.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClininCDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\DataAccessLayer\\ClininCDbContext.cs",
+              "RelativeDocumentMoniker": "Clinic\\DataAccessLayer\\ClininCDbContext.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\DataAccessLayer\\ClininCDbContext.cs",
+              "RelativeToolTip": "Clinic\\DataAccessLayer\\ClininCDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:05:59.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Clinic\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "Clinic\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:54:03.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Configurations\\DoctorConfiguration.cs",
+              "RelativeDocumentMoniker": "Clinic\\Configurations\\DoctorConfiguration.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Configurations\\DoctorConfiguration.cs",
+              "RelativeToolTip": "Clinic\\Configurations\\DoctorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:00:13.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Clinic\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:23:50.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DepartmentCreateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Validations\\Department\\DepartmentCreateValidator.cs",
+              "RelativeDocumentMoniker": "Clinic\\Validations\\Department\\DepartmentCreateValidator.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Validations\\Department\\DepartmentCreateValidator.cs",
+              "RelativeToolTip": "Clinic\\Validations\\Department\\DepartmentCreateValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:47:53.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250113132010_CreatingDepartmentanddoctor.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113132010_CreatingDepartmentanddoctor.cs",
+              "RelativeDocumentMoniker": "Clinic\\Migrations\\20250113132010_CreatingDepartmentanddoctor.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113132010_CreatingDepartmentanddoctor.cs",
+              "RelativeToolTip": "Clinic\\Migrations\\20250113132010_CreatingDepartmentanddoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:20:10.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Clinic\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Clinic\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:38:10.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Clinic\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Clinic\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-13T12:21:52.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250113131404_Publicing.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113131404_Publicing.cs",
+              "RelativeDocumentMoniker": "Clinic\\Migrations\\20250113131404_Publicing.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113131404_Publicing.cs",
+              "RelativeToolTip": "Clinic\\Migrations\\20250113131404_Publicing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:14:04.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CardCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\ViewModels\\Card\\CardCreateVM.cs",
+              "RelativeDocumentMoniker": "Clinic\\ViewModels\\Card\\CardCreateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\ViewModels\\Card\\CardCreateVM.cs",
+              "RelativeToolTip": "Clinic\\ViewModels\\Card\\CardCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:32:17.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DepartmentCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\ViewModels\\Department\\DepartmentCreateVM.cs",
+              "RelativeDocumentMoniker": "Clinic\\ViewModels\\Department\\DepartmentCreateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\ViewModels\\Department\\DepartmentCreateVM.cs",
+              "RelativeToolTip": "Clinic\\ViewModels\\Department\\DepartmentCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:39:50.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250113130554_CreatedDepartmentAndCardTables.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113130554_CreatedDepartmentAndCardTables.cs",
+              "RelativeDocumentMoniker": "Clinic\\Migrations\\20250113130554_CreatedDepartmentAndCardTables.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Migrations\\20250113130554_CreatedDepartmentAndCardTables.cs",
+              "RelativeToolTip": "Clinic\\Migrations\\20250113130554_CreatedDepartmentAndCardTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:05:54.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CardUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\ViewModels\\Card\\CardUpdateVM.cs",
+              "RelativeDocumentMoniker": "Clinic\\ViewModels\\Card\\CardUpdateVM.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\ViewModels\\Card\\CardUpdateVM.cs",
+              "RelativeToolTip": "Clinic\\ViewModels\\Card\\CardUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:33:29.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CardUpdateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Validations\\Card\\CardUpdateValidator.cs",
+              "RelativeDocumentMoniker": "Clinic\\Validations\\Card\\CardUpdateValidator.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Validations\\Card\\CardUpdateValidator.cs",
+              "RelativeToolTip": "Clinic\\Validations\\Card\\CardUpdateValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:01:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CartCreateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Validations\\Card\\CartCreateValidator.cs",
+              "RelativeDocumentMoniker": "Clinic\\Validations\\Card\\CartCreateValidator.cs",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Validations\\Card\\CartCreateValidator.cs",
+              "RelativeToolTip": "Clinic\\Validations\\Card\\CartCreateValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:57:12.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Clinic\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Clinic\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T11:35:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Clinic\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Clinic\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T10:26:50.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clinic\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\Desktop\\Klinik\\Clinic\\Clinic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Clinic\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACUCAAAAAAAAAAAAAEUCAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T10:26:52.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
